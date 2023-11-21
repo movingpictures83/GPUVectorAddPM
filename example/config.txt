@@ -1,0 +1,2 @@
+Prefix plugins/GPUVectorAddPM/example
+Plugin GPUVectorAddPM inputfile parameters.txt outputfile vectoradd.pinned.raw
